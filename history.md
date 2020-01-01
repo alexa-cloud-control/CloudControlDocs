@@ -68,3 +68,8 @@ Also, the plan is to add possibility to build instance on predefined AMIs
 (not some default like now), add S3 management, and the most important - 
 CloudWatch management.
 
+### v.4
+
+Heh. I decided to switch Terraform to CloudFormation. It looks more clean for me, 
+when run through TravisCI.  
+My goal is to focus on this project, as it is selected as the topic on some meetups / conferences.
